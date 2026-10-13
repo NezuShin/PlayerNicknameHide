@@ -1,0 +1,5 @@
+name: PlayerNicknameHide
+version: '1.0-SNAPSHOT'
+main: su.nezushin.pnh.PlayerNicknameHide
+api-version: '1.21'
+depend: [packetevents]
